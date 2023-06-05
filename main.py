@@ -1,1 +1,1 @@
-print("Hello Kulturelle Praxis!")
+print("Hello Kitty!")
